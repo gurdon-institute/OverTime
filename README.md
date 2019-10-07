@@ -4,4 +4,4 @@ An ImageJ plugin to add timestamps to image stacks with flexible display options
 
 Put the .jar file in Fiji.app/jars/ and restart Fiji to add it to the Image/Hyperstacks menu.
 
-Used in **van den Ameele, J. and Brand, A. (2019). Neural stem cell temporal patterning and brain tumour growth rely on oxidative phosphorylation. eLife, 8.** https://elifesciences.org/articles/47887
+Used in [**van den Ameele, J. and Brand, A. (2019). Neural stem cell temporal patterning and brain tumour growth rely on oxidative phosphorylation. eLife, 8.**](https://elifesciences.org/articles/47887)
